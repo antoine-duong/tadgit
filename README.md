@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tuan @tadgit
+- 👋 Hi, I’m Antoine @tadgit
 - 🌱 I’m currently learning Javascript, HTML & CSS
 
 <!---
